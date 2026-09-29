@@ -6,7 +6,7 @@ Diese Datenschutzerklärung beschreibt, welche Daten der Discord-Bot „Hermes A
 
 ## 1. Verantwortlicher
 
-Verantwortlich für die Datenverarbeitung ist der Betreiber des Bots. Kontakt: rotorbase@speculatrix.de
+Verantwortlich für die Datenverarbeitung ist der Betreiber des Bots. Kontakt: kontakt@speculatrix.de
 
 ## 2. Welche Daten wir erheben
 
@@ -55,7 +55,7 @@ Du hast folgende Rechte:
 - **Datenübertragbarkeit** (Art. 20): Du kannst deine Daten in einem maschinenlesbaren Format anfordern
 - **Widerspruch** (Art. 21)
 
-Anfragen richte bitte an rotorbase@speculatrix.de. Wir bearbeiten Anfragen innerhalb von 14 Tagen.
+Anfragen richte bitte an kontakt@speculatrix.de. Wir bearbeiten Anfragen innerhalb von 14 Tagen.
 
 ## 7. Sicherheit
 
@@ -74,5 +74,5 @@ Wir können diese Datenschutzerklärung aktualisieren. Wesentliche Änderungen w
 
 ## 10. Kontakt und Beschwerderecht
 
-Bei Fragen: rotorbase@speculatrix.de
+Bei Fragen: kontakt@speculatrix.de
 Beschwerderecht bei der zuständigen Aufsichtsbehörde (in Deutschland: die Landesdatenschutzbehörde deines Bundeslandes).

@@ -37,4 +37,4 @@ Die Kurzbeschreibung aus [app-description.md](./app-description.md) wird in das 
 
 ## Kontakt
 
-rotorbase@speculatrix.de
+kontakt@speculatrix.de

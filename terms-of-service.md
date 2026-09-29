@@ -48,7 +48,7 @@ Wir behalten uns vor, den Zugang einzelner User zum Bot ohne Angabe von Gründen
 
 ## 10. Kontakt
 
-Fragen oder Anliegen: rotorbase@speculatrix.de
+Fragen oder Anliegen: kontakt@speculatrix.de
 
 ## 11. Anwendbares Recht
 
